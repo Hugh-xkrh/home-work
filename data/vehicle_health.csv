@@ -1,0 +1,6 @@
+timestamp_s,oil_temp_c,battery_v,engine_load_pct,check_engine
+0,82.5,12.6,23,0
+1,83.1,12.5,25,0
+2,84.0,12.4,30,0
+3,95.2,11.9,85,1
+4,102.3,11.7,90,1
